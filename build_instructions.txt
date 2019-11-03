@@ -1,0 +1,12 @@
+
+npm run build
+npm install -g serve
+serve -s build
+
+
+   │   Serving!                                    │
+   │                                               │
+   │   - Local:            http://localhost:5000   │
+   │   - On Your Network:  http://10.1.1.91:5000   │
+
+^C : to kill serve
